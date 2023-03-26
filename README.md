@@ -20,7 +20,7 @@
 
 #### 💻 Participated Project
 
-`2023. 01. 17 ~` 소심한 총무 서버 제작 (벌금 관리 서비스)</a>
+`2023. 01. 17 ~` <a href="https://github.com/so-sim">소심한 총무 서버 제작 (벌금 관리 서비스)</a>
 
 <br><br>
 
